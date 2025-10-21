@@ -21,15 +21,6 @@ Here are the main languages and tools I’m currently using:
 ## 🔥Current projects
 
 - **CodeBlocksMC** - The next Minecraft network with the best innovatice Minigames you can get! [Click here!](https://discord.codeblocksmc.com)
-- **Caesar** - The ultimate Minecraft Management System for your Minecraft Server! [Click here!](https://caesarnet.cloud)
-- **CleanPaper** - My first Android App for getting clean and nice looking Wallpapers (complete Open Source and Ad Free) [In progress](https://github.com/zCreeperYT)
-
----
-
-## 📚 Currently Exploring
-
-I'm always looking for new technologies to learn.  
-Next on my list is **Swift** — once I get access to a Mac!
 
 ---
 
