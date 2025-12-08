@@ -20,7 +20,7 @@ Here are the main languages and tools I’m currently using:
 
 ## 🔥Current projects
 
-- **CodeBlocksMC** - The next Minecraft network with the best innovatice Minigames you can get! [Click here!](https://discord.codeblocksmc.com)
+/ No current projects
 
 ---
 
