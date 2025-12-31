@@ -20,7 +20,7 @@ Here are the main languages and tools I’m currently using:
 
 ## 🔥Current projects
 
-/ No current projects
+- No current projects
 
 ---
 
